@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /src/scss
+/prepros.config
 
 # testing
 /coverage
