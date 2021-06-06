@@ -1,11 +1,10 @@
 const MainDescriptions = ({textDescription}) => {
 
-
-
-
   return (
-    <div className="mainDescription">
+    <div className="mainDescriptions">
       <p>{textDescription}</p>
+
+<p>Anulik</p>
     </div>
   )
 }

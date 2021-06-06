@@ -17,7 +17,7 @@ const Main = () => {
   }
 
   const handleMouseLeave = (e) => {
-    e.target.lastChild.className = "hidden"
+    e.target.lastChild.className = "hidden";
   }
 
   const onClick = (e) => {
