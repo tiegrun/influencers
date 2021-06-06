@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
-    <div>
-      <p>Armenia Forever - Footer</p>
+    <div className="footer">
+      <a href="itsdesignedby.me" target="_blank">It's designed by me &copy; 2021</a>
     </div>
   )
 }
